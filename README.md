@@ -21,4 +21,4 @@ Spam Mail Dataset
 6. Evaluation
 
 ## Results
-Accuracy: XX%
+Accuracy: 98.5%
