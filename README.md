@@ -11,6 +11,7 @@ Spam Mail Dataset
 - Pandas
 - Scikit-Learn
 - TF-IDF
+- Logistic Regression
 
 ## Workflow
 1. Load Dataset
